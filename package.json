@@ -12,3 +12,14 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "My simple project",
+  "author": "Ahmed Rahman",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC"
+}
